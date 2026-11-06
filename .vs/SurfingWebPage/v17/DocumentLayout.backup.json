@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Thamizhvijayan\\Projects\\.NET PRACTICE\\WebApplication\\SurfingWebPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{995C79ED-5237-4E7F-8457-EB94F7DA73B9}|SurfWeb\\SurfWeb.csproj|e:\\thamizhvijayan\\projects\\.net practice\\webapplication\\surfingwebpage\\surfweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{995C79ED-5237-4E7F-8457-EB94F7DA73B9}|SurfWeb\\SurfWeb.csproj|solutionrelative:surfweb\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Notification.cshtml",
+              "DocumentMoniker": "E:\\Thamizhvijayan\\Projects\\.NET PRACTICE\\WebApplication\\SurfingWebPage\\SurfWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeDocumentMoniker": "SurfWeb\\Views\\Shared\\_Notification.cshtml",
+              "ToolTip": "E:\\Thamizhvijayan\\Projects\\.NET PRACTICE\\WebApplication\\SurfingWebPage\\SurfWeb\\Views\\Shared\\_Notification.cshtml",
+              "RelativeToolTip": "SurfWeb\\Views\\Shared\\_Notification.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-10T09:41:14.735Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
